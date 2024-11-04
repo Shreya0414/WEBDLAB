@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY RESUME</title>
+</head>
+<body>
+    <h1>SHREYA SINGH</h1>
+    <img src="https://enwpgo.files.wordpress.com/2023/02/web-design-portfolio-header.jpg?w=960" alt="image" height="100">
+    <p><b>email :</b> shreya@gmail.com</p>
+    <br>
+    <p><b>phone no : </b> 98709....</p>
+    <br>
+    <p><b>linkdin id: </b> <a href="https://www.linkedin.com/in/shreya-singh-7896882a5/">MY PROFILE</a>
+    <hr>
+    <h2>OBJECTIVE</h2> <p>I belong to Lucknow. Currently I am pursuing my btech from KIET Group of instituitions. </p>  
+    <hr>
+    <h2>EDUCATION</h2> 
+
+    <table border="2">
+       <thead>
+        <th>s.no</th>
+        <th>institution</th>
+        <th>passing year</th>
+       </thead> 
+       <tr>
+        <td>1</td>
+        <td>RLB SCHOOL</td>
+        <td>2022</td>
+       </tr>
+       <tr>
+        <td>2</td>
+        <td>KIET GROUP OF INSTITUTIONS</td>
+        <td>Currently Studying</td>
+       </tr>
+    </table>
+    <hr>
+    <h2>HOBBIES</h2>
+    <p>
+        Badminton
+        <br>
+        Reading
+    </p>
+
+
+>
+    
+    
+</body>
+</html>
